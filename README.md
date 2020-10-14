@@ -1,7 +1,7 @@
-# Data Warehouse and Business Intelligence Projects (ETL, Dimensional Modeling, Talend, Tableau, Qlik Sense, Power BI)
+Data Warehouse and Business Intelligence Projects (ETL, Dimensional Modeling, Talend, Tableau, Qlik Sense, Power BI)
   
   
-## Contoso Datawarehouse, a retail store. Handled very dirty data one of the best data model project for beginers  
+Contoso Datawarehouse, a retail store. Handled very dirty data one of the best data model project for beginers  
 
 Created multi-dimensional data model (STAR Schema) and enhanced it to meet growing requirements  
 Developed a centralized data warehouse, pipelining retail data from diverse data sources using Talend Open Studio  
